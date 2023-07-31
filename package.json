@@ -1,6 +1,6 @@
 {
   "name": "unrepress",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "express but shittier. unrepress because just repress was taken by a guy who made a package with one line of code 8 years ago.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/kataya1/de-repress.git"
+    "url": "git+ssh://git@github.com/kataya1/unrepress.git"
   },
   "keywords": [
     "unrepress",
