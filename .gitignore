@@ -1,0 +1,28 @@
+# VSCode 
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Misc
+.DS_Store
+*.tgz
+
+# Dependencies
+node_modules
+
+# Build files
+dist
+build
+
+# Docs
+docs/_build
+
+# Logs
+*.log
+npm-debug.log*
+
+# Coverage reports
+coverage
+*.lcov

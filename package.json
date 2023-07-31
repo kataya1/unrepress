@@ -1,0 +1,31 @@
+{
+  "name": "unrepress",
+  "version": "1.0.0",
+  "description": "express but shittier. unrepress because just repress was taken by a guy who made a package with one line of code 8 years ago.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/kataya1/de-repress.git"
+  },
+  "keywords": [
+    "unrepress",
+    "express",
+    "framework",
+    "web",
+    "http",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api"
+  ],
+  "author": "kataya1",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/kataya1/unrepress/issues"
+  },
+  "homepage": "https://github.com/kataya1/unrepress#readme"
+}
