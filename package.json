@@ -1,6 +1,6 @@
 {
   "name": "unrepress",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "express but shittier. unrepress because just repress was taken by a guy who made a package with one line of code 8 years ago.",
   "main": "index.js",
   "scripts": {
