@@ -4,7 +4,7 @@
   "description": "express but shittier. unrepress because just repress was taken by a guy who made a package with one line of code 8 years ago.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" "
+    "test": "echo \" all good \" "
   },
   "repository": {
     "type": "git",
