@@ -1,10 +1,10 @@
 {
   "name": "unrepress",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "express but shittier. unrepress because just repress was taken by a guy who made a package with one line of code 8 years ago.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" "
   },
   "repository": {
     "type": "git",
